@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+vim.wo.number = true
 vim.o.relativenumber = true
 
 -- Functional wrapper for mapping custom keybindings
